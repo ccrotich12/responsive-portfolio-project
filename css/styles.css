@@ -59,10 +59,6 @@ a {
   text-decoration: none !important;
 }
 
-a:link {
-  color: var(--tertiary-color) !important;
-}
-
 .navigation-links {
   display: flex;
   margin-top: 40px;
